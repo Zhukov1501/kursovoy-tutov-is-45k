@@ -1,0 +1,10 @@
+﻿# Word temp / backups
+~$*
+*.docx.bak*
+*.bak_*
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
+_shots/
+_fix_*.py
